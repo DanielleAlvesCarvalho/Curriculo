@@ -1,1 +1,1 @@
-Olá, caso queira imprimir em PDF não se esqueça de configurar a impressão para folha A4, escala de tamanho real e sem margens 
+Olá, caso queira imprimir em PDF não se esqueça de configurar a impressão para folha A4, escala de tamanho real e margens no mínimo
